@@ -1,4 +1,4 @@
-![1dl 3](https://github.com/Hanumanth26/nn-classification/assets/121033192/89ddee95-834d-474f-8928-04c09ecf1ddf)# Developing a Neural Network Classification Model
+# Developing a Neural Network Classification Model
 
 ## AIM
 
